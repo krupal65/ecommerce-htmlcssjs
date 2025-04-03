@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add to Cart</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <template id="producttemplatecart">
+            <div class="cards" id="cardvalueunique">
+                <div class="information">
+                    <span class="category"></span>
+                    
+                    <div class="imge-p">
+                        <img src="" alt="ProductImage" class="ProductImage">
+                    </div>
+
+                    <div class="flex">
+                        <h2 class="productname"></h2>
+
+                        <div class="productrating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+
+                        <div class="productdes">
+                            <p class="des"></p>
+                        </div>
+
+                        <div class="productyprice">
+                            <h2 class="originalprice"></h2>
+                            <h2 class="wrongprice"></h2>
+                        </div>
+
+                        <div class="stockelemetn">
+                            <div class="productproerty">
+                                <p class="totalstock">Total Stocks Available:</p>
+                                <p class="productstock"></p>
+                            </div>
+                        </div>
+
+                        <div class="quantity">
+                            <p class="quantitytext">Quantity:</p>
+                            <div class="btn-plus">
+                                <button class="decrement">-</button>
+                                <p class="productquantity">1</p>
+                                <button class="increment">+</button>
+                            </div>
+                        </div>
+
+                        <button class="addtocart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </template>
+    </div>
+</body>
+</html>
