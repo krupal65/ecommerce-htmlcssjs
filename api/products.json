@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Television",
+        "category":"Electronics",
+        "brand":"Samsung",
+        "price":500.00,
+        "stock":10,
+        "image":"../public/phone.jpg",
+         "description":"Dell Inspiron 15.6-inch FHD (1920 x 1080) Laptop, Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics, Windows 10 Home, Black (Inspiron 3501, 5110BLK)"
+    },
+{
+    "id":2,
+    "name":"Laptop",
+    "category":"Electronics",
+    "brand":"Dell",
+    "price":850.0,
+    "stock":10,
+    "image":"../public/phone.jpg",
+    "description":"Dell Inspiron 15.6-inch FHD (1920 x 1080) Laptop, Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics, Windows 10 Home, Black (Inspiron 3501, 5110BLK)"
+},
+{
+    "id":3,
+    "name":"Headphones",
+    "category":"Electronics",
+    "brand":"Sony",
+    "price":750.0,
+    "stock":10,   
+    "image":"../public/phone.jpg",
+    "description":"Sony WH-1000XM4 Wireless Noise-Cancelling Over-Ear Headphones with Google Assistant, Alexa, and Voice Control - Black"
+},
+{
+    "id":4,
+    "name":"Smartphone",
+    "category":"Electronics",
+    "brand":"Apple",
+    "price":50,
+    "stock":10,
+    "image":"../public/phone.jpg",     
+    "description":"Apple iPhone 11 Pro Max, 256GB, Space Gray - Fully Unlocked (Renewed)"
+},
+{
+    "id":5,
+    "name":"Smartphone",
+    "category":"Electronics",
+    "brand":"Samsung",
+    "price":50,
+    "stock":10,
+    "image":"../public/phone.jpg",     
+    "description":"Samsung Galaxy S21 5G Android Cell Phone 128GB US Version Smartphone Pro-Grade Camera 8K Video 64MP High Res Camera 5G UWV 6.2” QHD+ Display (Phantom Gray)"
+},
+    {
+        "id":6,
+        "name":"Smartphone",
+        "category":"Electronics",
+        "brand":"Samsung",
+        "price":740,
+        "stock":10,
+        "image":"../public/phone.jpg",
+        "description":"Apple iPhone 11 Pro Max, 256GB, Space Gray - Fully Unlocked (Renewed)"
+    }
+
+]
